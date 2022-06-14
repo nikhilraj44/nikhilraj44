@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nikhil Raj
-- 👀 I’m interested in playing with Data
 - 🌱 I’m currently pursuing Masters in Computer Application
 - 📫 Reach me -nikhilrajan009@gmail.com
 
